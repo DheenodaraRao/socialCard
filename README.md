@@ -1,6 +1,5 @@
 <h1>Social Card</h1>
 <h2>Developed with Reactjs</h2>
-</br>
 <h3>How to Clone and Run</h3>
 <hr>
 
