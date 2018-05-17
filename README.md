@@ -29,4 +29,4 @@ npm start
 </p>
 
 <h3>UI</h3>
-<img src="/socialCard/socialcard/public/images/UI.png">
+<img src="UI.png">
