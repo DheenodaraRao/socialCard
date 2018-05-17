@@ -29,4 +29,4 @@ npm start
 </p>
 
 <h3>UI</h3>
-<img src="/home/dheeno/ReactProjects/socialCard/socialcard/public/images/UI.png">
+<img src="/socialCard/socialcard/public/images/UI.png">
