@@ -27,3 +27,6 @@ npm start
 <p>
     This project covers component and props. Its mainly do display the cards for the companies which contains the name and net worth of the company.
 </p>
+
+<h3>UI</h3>
+<img src="/home/dheeno/ReactProjects/socialCard/socialcard/public/images/UI.png">
