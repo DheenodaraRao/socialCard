@@ -22,3 +22,8 @@ npm start
         <li>Get the lattest one</li>
     </ul>
 </ul>
+
+<h3>About</h3>
+<p>
+    This project covers component and props. Its mainly do display the cards for the companies which contains the name and net worth of the company.
+</p>
